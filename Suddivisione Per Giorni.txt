@@ -1,0 +1,5 @@
+1o Giorno: Programmato e ideato il progetto, suddivisi i compiti e fatta la descrizione del progetto.
+2o Giorno: Suddivisione delle funzioni e design di quest'ultime
+3o Giorno: Coding e deisgn del bot telegram
+4o Giorno: Testing bot telegram e aggiunte varie
+5o Giorno: Revisioni finali

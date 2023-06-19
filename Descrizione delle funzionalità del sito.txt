@@ -1,11 +1,2 @@
-Il sito che stiamo creando si chiama “Connect-Now” ed è un sito in cui possiamo trovare tutte le associazioni
-che sono presenti nel territorio veronese. Queste associazioni possono essere filtrate in base a ciò di cui 
-l’individuo ha bisogno. Appena si accede al sito c’è un menù a tendina dove l’utente può selezionare 
-il/i comune/i a cui è interessato, una volta selezionato/i, verranno visualizzate solo le associazioni aderenti 
-ai filtri impostati dall’utente.
-Una volta selezionata l’associazione alla quale si vuole far parte, si possono ottenere informazioni su di 
-essa, quali: orari di apertura e di chiusura, numeri di cellulare, email, indirizzo, etc. Una volta 
-selezionata l’associazione si potrà accedere a una sorta di forum dell’associazione con eventi chela riguardano
-(Organizzati in un calendario), in questo forum le persone possono pure comunicare tra di loro, e di conseguenze
-mettersi d’accordo su trasporti, uscite, etc.
-Il sito sarà destinato all’utilizzo prevalente da parte di associazioni e dai loro soci, ma anche da parte di  adolescenti e adulti.
+"ISDF" è un servizio dedicato a dare informazioni relative a varie associazioni nel Veronese
+per aiutare i cittadini a connettersi con esse in modo sicuro, diretto e facile.
