@@ -1,5 +1,5 @@
 # Gruppo 1 - Associazioni
-Danilo Stupic - Coding
-Alessandro Zocca - Coding
-Anna Cicconi - Design
-Eleonora Cordioli - Presentazione
+Danilo Stupic - Coding <br>
+Alessandro Zocca - Coding <br>
+Anna Cicconi - Design <br>
+Eleonora Cordioli - Presentazione <br>
