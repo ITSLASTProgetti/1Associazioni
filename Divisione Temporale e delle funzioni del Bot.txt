@@ -1,0 +1,13 @@
+Calendario eventi
+	Inserire eventi con google forms (per le associazioni/per gli interessati)
+	Leggere gli eventi del giorno dal bot telegram
+	Leggere info sugli eventi successivi messi in una tabella sul bot telegram
+	Useremo: Google forms, un database dove salvare i dati relativi agli eventi, Python, Telegram.
+	3hrs
+Informazioni
+	Contatti
+	Posizione
+	Di cosa si occupa
+	Note
+	Useremo: Database, Python, Telegram
+	1,5hrs
