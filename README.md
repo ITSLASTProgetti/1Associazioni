@@ -4,5 +4,5 @@ Alessandro Zocca - Coding <br>
 Anna Cicconi - Design <br>
 Eleonora Cordioli - Presentazione <br>
 
-# Per avviare il bot
-- mettere in un file token.txt il token relativo al bottelegram
+# Descrizione
+Bot che permette di visualizzare le associazioni ed i loro eventi nel territorio dell'Ovest Veronese
