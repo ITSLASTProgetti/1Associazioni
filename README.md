@@ -3,3 +3,6 @@ Danilo Stupic - Coding <br>
 Alessandro Zocca - Coding <br>
 Anna Cicconi - Design <br>
 Eleonora Cordioli - Presentazione <br>
+
+# Per avviare il bot
+- mettere in un file token.txt il token relativo al bottelegram
