@@ -29,7 +29,7 @@ def esistenza_nome_comune(messaggio):
 def sendmessage(message):
     
     setstep(0)
-    bot.send_message(message.chat.id, "Benvenuto al bot telegram ISDF, perfavore inserisci un comune.")
+    bot.send_message(message.chat.id, "Benvenuto al bot delle Associazioni! Perfavore inserisci un comune.")
 
 @bot.message_handler(content_types=['text'])
 def sendmessage(message):
