@@ -2,8 +2,8 @@ import telebot
 from telebot import types
 import sqlite3
 
-TOKEN = "Insert token here" #Inserire il token
-PosizioneDB = r"Insert DB Location here" #Inserisci la directory dove si ha salvato il DB
+TOKEN = "6284854329:AAFBmjxT_qhdgQn9JRQzh9xJFBgrsTDHUXc" #Inserire il token
+PosizioneDB = r"DataBaser.db" #Inserisci la directory dove si ha salvato il DataBase
 
 bot = telebot.TeleBot(TOKEN, parse_mode=None)
 lista = ['bussolengo','castelnuovo','lazise','mozzecane','pastrengo','pescantina','sommacampagna','sona','valeggio','vigasio','villafranca']
@@ -29,7 +29,7 @@ def esistenza_nome_comune(messaggio):
 def sendmessage(message):
     
     setstep(0)
-    bot.send_message(message.chat.id, "Benvenuto al bot telegram ISDF, perfavore inserisci un comune.")
+    bot.send_message(message.chat.id, "Benvenuto al bot delle Associazioni! Perfavore inserisci un comune.")
 
 @bot.message_handler(content_types=['text'])
 def sendmessage(message):
