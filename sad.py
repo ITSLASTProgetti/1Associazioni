@@ -2,8 +2,8 @@ import telebot
 from telebot import types
 import sqlite3
 
-TOKEN = "Insert token here" #Inserire il token
-PosizioneDB = r"Insert DB Location here" #Inserisci la directory dove si ha salvato il DB
+TOKEN = "6284854329:AAFBmjxT_qhdgQn9JRQzh9xJFBgrsTDHUXc" #Inserire il token
+PosizioneDB = r"DataBaser.db" #Inserisci la directory dove si ha salvato il DataBase
 
 bot = telebot.TeleBot(TOKEN, parse_mode=None)
 lista = ['bussolengo','castelnuovo','lazise','mozzecane','pastrengo','pescantina','sommacampagna','sona','valeggio','vigasio','villafranca']
